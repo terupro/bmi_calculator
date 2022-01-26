@@ -10,7 +10,6 @@ class BMICalculator extends StatelessWidget {
       title: 'BMI CALCULATOR',
       theme: ThemeData(
         // Define the default brightness and colors.
-        brightness: Brightness.light,
         primaryColor: Colors.black,
 
         // Define the default font family.
